@@ -4,7 +4,6 @@
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <LangVersion>7.1</LangVersion>
     <AssemblyTitle>bignumber</AssemblyTitle>
-    <AssemblyCompany>S@NET</AssemblyCompany>
     <AssemblyProduct>bignumber</AssemblyProduct>
     <Version>1.0.0.0</Version>
     <AssemblyVersion>1.0.0.0</AssemblyVersion>
